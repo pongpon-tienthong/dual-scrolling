@@ -12,6 +12,7 @@
 		56513683200A909700D0A443 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56513681200A909700D0A443 /* Main.storyboard */; };
 		56513685200A909700D0A443 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56513684200A909700D0A443 /* Assets.xcassets */; };
 		56513688200A909700D0A443 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56513686200A909700D0A443 /* LaunchScreen.storyboard */; };
+		56513690200A951B00D0A443 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5651368F200A951B00D0A443 /* CategoryRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		56513684200A909700D0A443 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56513687200A909700D0A443 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56513689200A909700D0A443 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5651368F200A951B00D0A443 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				5651367D200A909700D0A443 /* AppDelegate.swift */,
 				5651367F200A909700D0A443 /* ViewController.swift */,
 				56513681200A909700D0A443 /* Main.storyboard */,
+				5651368F200A951B00D0A443 /* CategoryRow.swift */,
 				56513684200A909700D0A443 /* Assets.xcassets */,
 				56513686200A909700D0A443 /* LaunchScreen.storyboard */,
 				56513689200A909700D0A443 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				56513680200A909700D0A443 /* ViewController.swift in Sources */,
+				56513690200A951B00D0A443 /* CategoryRow.swift in Sources */,
 				5651367E200A909700D0A443 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
